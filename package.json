@@ -1,1 +1,11 @@
-{"type": "commonjs"}
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^13" // or 14/12 etc.
+  },
+  "type": "commonjs"
+}
